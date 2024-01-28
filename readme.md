@@ -6,3 +6,4 @@
 ### v0.4 are `school furnitures`.
 ### v0.5 is including `MongoDB 7.2 manual`, `FakeDB`, `OpenPLC Editor`.
 ### v0.6 is including `reverse engineering prevention program for apk`, `TinyML, Docker... books`.
+### v0.7 is `macOS Sierra 10.12.6 (16G29) by techrechard.com.vmdk`.
