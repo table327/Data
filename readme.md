@@ -9,3 +9,5 @@
 ### v0.7 is `macOS Sierra 10.12.6 (16G29) by techrechard.com.vmdk`.
 ### v0.8 are offline UI/UX design softwares.
 ### v0.9 are open sources for `quantum calculation`.
+### v1.0 `WDK for Windows 10, version 1709`
+### v1.1 `Questa*-Intel® FPGA Edition (includes Starter Edition)-22.1.0.174`
