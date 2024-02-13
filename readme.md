@@ -12,3 +12,4 @@
 ### v1.0 `WDK for Windows 10, version 1709`
 ### v1.1 `Questa*-Intel® FPGA Edition (includes Starter Edition)-22.1.0.174`
 ### v1.2 `papers-pdf,doc`
+### v1.3 `Photon Server`
