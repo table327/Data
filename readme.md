@@ -13,4 +13,5 @@
 ### v1.1 `Questa*-Intel® FPGA Edition (includes Starter Edition)-22.1.0.174`
 ### v1.2 `papers-pdf,doc`
 ### v1.3 `Photon Server`
+### v1.4 `LCNC` - `For Android/iOS`
 ### v6.0 is including `reverse engineering prevention program for apk`, `TinyML, Docker... books`.
