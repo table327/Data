@@ -16,4 +16,6 @@
 ### v1.4 `LCNC` - `For Android/iOS`
 ### v1.5 `LCNC` - `For MERN`
 ### v1.6 `LCNC` - `DnD`
+### v1.7 `LCNC` - `For HTML`
+### v1.8 `University Curriculums`
 ### v6.0 is including `reverse engineering prevention program for apk`, `TinyML, Docker... books`.
