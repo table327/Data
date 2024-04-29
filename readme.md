@@ -21,4 +21,7 @@
 ### v1.9 `Offline Wordpress`
 ### v2.0 `Books`
 ### v2.1 `low-code`-`MERN`
+### v2.2 `ref-study`
+### v2.3 `ref1`
+### v2.4 `ref-DevOps`
 ### v6.0 is including `reverse engineering prevention program for apk`, `TinyML, Docker... books`.
